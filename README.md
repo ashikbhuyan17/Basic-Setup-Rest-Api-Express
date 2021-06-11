@@ -3,7 +3,7 @@
 npm i express dotenv ejs mongoose multer cookie-parser express-validator jsonwebtoken bcrypt http-errors morgan cors
    
 ### what's work 
-dotenv  = read .env file
+dotenv  = read .env file </br>
 ejs = template engine for static file
 mongoose  = for database 
 multer  = for file upload 
