@@ -1,8 +1,10 @@
 # Basic-Setup-Rest-Api-Express
 ## For installation
 npm i express dotenv ejs mongoose multer cookie-parser express-validator jsonwebtoken bcrypt http-errors morgan cors
-   
+npm i  --save-dev  nodemon
+
 ### what's work 
+nodemon = automatically restart your server.
 dotenv  = read .env file </br>
 ejs = template engine for static file </br>
 mongoose  = for database  </br>
